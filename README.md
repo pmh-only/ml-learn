@@ -14,15 +14,15 @@ pip install -r requirements.txt
 
 ## Contents Overview
 * PyTorch - ANN
-  * [PyTorch - 붓꽃 분류](./iris_ann_pytorch.ipynb)
-  * [PyTorch - 붓꽃(확장) 분류](./iris_ann_pytorch.ipynb)
-  * [PyTorch - 보스턴 집값 예측 회귀](./housing_ann_pytorch.ipynb)
-  * [PyTorch - MNIST 손글씨 분류 (ANN)](./mnist_ann_pytorch.ipynb)
+  * [PyTorch - 붓꽃 분류](./ann_pytorch_iris.ipynb)
+  * [PyTorch - 붓꽃(확장) 분류](./ann_pytorch_iris.ipynb)
+  * [PyTorch - 보스턴 집값 예측 회귀](./ann_pytorch_housing.ipynb)
+  * [PyTorch - MNIST 손글씨 분류 (ANN)](./ann_pytorch_mnist.ipynb)
 
 * PyTorch - CNN
-  * [PyTorch - MNIST 손글씨 분류 (CNN)](./mnist_cnn_pytorch.ipynb)
-  * [PyTorch - Pizza/Not Pizza 분류](./pizza_cnn_pytorch.ipynb)
+  * [PyTorch - MNIST 손글씨 분류 (CNN)](./cnn_pytorch_mnist.ipynb)
+  * [PyTorch - Pizza/Not Pizza 분류](./cnn_pytorch_pizza.ipynb)
 
 * PyTorch - RNN
-  * [PyTorch - MNIST 손글씨 분류 (RNN)](./mnist_rnn_pytorch.ipynb)
-  * [PyTorch - 뉴욕 증시 예측 회귀](./nystock_rnn_pytorch.ipynb)
+  * [PyTorch - MNIST 손글씨 분류 (RNN)](./rnn_pytorch_mnist.ipynb)
+  * [PyTorch - 뉴욕 증시 예측 회귀](./rnn_pytorch_nystock.ipynb)
