@@ -22,3 +22,7 @@ pip install -r requirements.txt
 * PyTorch - CNN
   * [PyTorch - MNIST 손글씨 분류 (CNN)](./mnist_cnn_pytorch.ipynb)
   * [PyTorch - Pizza/Not Pizza 분류](./pizza_cnn_pytorch.ipynb)
+
+* PyTorch - RNN
+  * [PyTorch - MNIST 손글씨 분류 (RNN)](./mnist_rnn_pytorch.ipynb)
+  * [PyTorch - 뉴욕 증시 예측 회귀](./nystock_rnn_pytorch.ipynb)
