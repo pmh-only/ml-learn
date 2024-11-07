@@ -1,9 +1,18 @@
 ## Machine Learning
 
 > [!IMPORTANT]
-> 데이터셋은 비공개 Git LFS 서버에 저장되어 있으며\
-> 이로 인해 Clone시 오류가 발생할 수 있습니다.
+> 데이터셋은 [개인 Git LFS 서버](https://src.pmh.codes/pmh_only/ml-learn)에 저장되어 있으며\
+> 데이터셋을 받기 위해 Clone전 [Git LFS를 설치](https://docs.github.com/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)하여야 합니다.
 
+## Fetch Dependancies
+```
+pip install torch torchvision torchaudio \
+  --index-url https://download.pytorch.org/whl/cpu
+  
+pip install -r requirements.txt
+```
+
+## Contents Overview
 * PyTorch - ANN
   * [PyTorch - 붓꽃 분류](./iris_ann_pytorch.ipynb)
   * [PyTorch - 붓꽃(확장) 분류](./iris_ann_pytorch.ipynb)
