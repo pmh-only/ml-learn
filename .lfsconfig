@@ -1,2 +1,2 @@
 [lfs]
-	url = https://src.pmh.codes/pmh_only/ml-learn
+	url = ssh://git@pmh.codes/pmh_only/ml-learn.git
