@@ -30,3 +30,6 @@ pip install -r requirements.txt
 * Scikit Learn - Linear Algorithms
   * [Scikit Learn - 당뇨병 분류](./linear_class_sklearn_diabetes.ipynb)
   * [Scikit Learn - 당뇨병 회귀](./linear_regs_sklearn_diabetes.ipynb)
+
+* Scikit Learn - Decision Tree
+  * [Scikit Learn - 와인 퀄리티 분류/회귀](./tree_sklearn_wine.ipynb)
