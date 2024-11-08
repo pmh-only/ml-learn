@@ -26,3 +26,7 @@ pip install -r requirements.txt
 * PyTorch - RNN
   * [PyTorch - MNIST 손글씨 분류 (RNN)](./rnn_pytorch_mnist.ipynb)
   * [PyTorch - 뉴욕 증시 예측 회귀](./rnn_pytorch_nystock.ipynb)
+
+* Scikit Learn - Linear Algorithms
+  * [Scikit Learn - 당뇨병 분류](./linear_class_sklearn_diabetes.ipynb)
+  * [Scikit Learn - 당뇨병 회귀](./linear_regs_sklearn_diabetes.ipynb)
