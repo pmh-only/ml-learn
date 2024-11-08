@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Contents Overview
 * PyTorch - ANN
   * [PyTorch - 붓꽃 분류](./ann_pytorch_iris.ipynb)
-  * [PyTorch - 붓꽃(확장) 분류](./ann_pytorch_iris.ipynb)
+  * [PyTorch - 붓꽃(확장) 분류](./ann_pytorch_iris_extended.ipynb)
   * [PyTorch - 보스턴 집값 예측 회귀](./ann_pytorch_housing.ipynb)
   * [PyTorch - MNIST 손글씨 분류 (ANN)](./ann_pytorch_mnist.ipynb)
 
@@ -33,3 +33,7 @@ pip install -r requirements.txt
 
 * Scikit Learn - Decision Tree
   * [Scikit Learn - 와인 퀄리티 분류/회귀](./tree_sklearn_wine.ipynb)
+
+* SageMaker - XGBoost
+  * [XGBoost - 보스턴 집값 예측 회귀](./xgboost_sagemaker_housing.ipynb)
+  * [XGBoost - 붓꽃(확장) 분류](./xgboost_sagemaker_iris_extended.ipynb)
